@@ -7,9 +7,18 @@ I'm a passionate developer interested in both **App Development** and **Web Deve
 - Exploring new technologies and frameworks to enhance my skillset.
 
 ### 🔗 How to Reach Me
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40"/>](https://www.linkedin.com/in/arsalan-aslam-9b106629b/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>](https://www.instagram.com/arsalanaslam11/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Google_Logo.svg" alt="Email" width="40" height="40"/>](mailto:aslamarsalan958@gmail.com)
+
+<p>
+  <a href="https://www.linkedin.com/in/arsalan-aslam-9b106629b/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/arsalanaslam11/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="mailto:aslamarsalan958@gmail.com">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" alt="Email" width="40" height="40"/>
+  </a>
+</p>
 
 ### 😄 Pronouns
 - He/Him
@@ -17,12 +26,14 @@ I'm a passionate developer interested in both **App Development** and **Web Deve
 ### ⚡ Fun Fact
 I love solving puzzles and enjoy learning new programming languages!
 
-### 📚 Languages and Tools  
-<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="40" height="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="40" height="40"/>
+### 📚 Languages and Tools
 
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+</p>
 
 
