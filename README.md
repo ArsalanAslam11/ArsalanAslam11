@@ -9,8 +9,8 @@ I'm a passionate developer interested in both **App Development** and **Web Deve
 ### 🔗 How to Reach Me
 - **Email**: [aslamarsalan958@gmail.com](mailto:aslamarsalan958@gmail.com)
 - **Connect with me**:
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsalan-aslam-9b106629b/)
-  - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arsalanaslam11/)
+  - [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>](https://www.linkedin.com/in/arsalan-aslam-9b106629b/)
+  - [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="30" height="30"/>](https://www.instagram.com/arsalanaslam11/)
 
 ### 😄 Pronouns
 - He/Him
@@ -19,10 +19,10 @@ I'm a passionate developer interested in both **App Development** and **Web Deve
 I love solving puzzles and enjoy learning new programming languages!
 
 ### 📚 Languages and Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" alt="Java" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS3" width="40" height="40"/>
 
 
