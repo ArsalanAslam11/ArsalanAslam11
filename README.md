@@ -16,7 +16,7 @@ I'm a passionate developer interested in both **App Development** and **Web Deve
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="mailto:aslamarsalan958@gmail.com">
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" alt="Email" width="40" height="40"/>  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="40" height="40"/>
 </p>
 
 ### 😄 Pronouns
