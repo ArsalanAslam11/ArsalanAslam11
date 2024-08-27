@@ -36,4 +36,3 @@ I love solving puzzles and enjoy learning new programming languages!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
-
