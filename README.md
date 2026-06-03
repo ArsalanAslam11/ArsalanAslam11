@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Muhammad Arsalan Aslam!
 
-I'm a passionate developer interested in **App Development**, **Web Development** and in **AI** Currently, I'm focusing on enhancing my skills in **Machine Lwarning**. I’m always open to collaborating on exciting projects related to machine learning web development and app development initiatives.
+I'm a passionate developer interested in **App Development**, **Web Development** and in **AI** Currently, I'm focusing on enhancing my skills in **Machine Learning**. I’m always open to collaborating on exciting projects related to machine learning web development and app development initiatives.
 
 ### 🌱 What I'm Learning
 - Currently diving deep into machine learning.  
